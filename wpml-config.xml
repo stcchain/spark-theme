@@ -1,0 +1,216 @@
+<wpml-config>
+	<custom-types>
+		 <custom-type translate="1">testimonial</custom-type>
+	</custom-types>
+	<admin-texts>
+		<key name="my_plugins_options">
+			<key name="option_name_1" />
+			<key name="option_name_2" />
+			<key name="options_group_1">
+				<key name="sub_option_name_11" />
+				<key name="sub_option_name_12" />
+			</key>
+			<key name="options_group_2">
+				<key name="sub_option_name_21" />
+				<key name="sub_option_name_22" />
+			</key>
+		</key>
+		<key name="home"/>
+		<key name="date_format"/>
+		<key name="page_on_front"/>
+		<key name="show_on_front"/>
+		<key name="page_for_posts"/>
+		<key name="thread_comment"/>
+		<key name="active_plugins"/>
+		<key name="recently_activated"/>
+		<key name="required_name_email"/>
+		<key name="woocommerce_enable_myaccount_registration"/>
+		<key name="woocommerce_registration_generate_username"/>
+		<key name="woocommerce_registration_generate_password"/>
+	</admin-texts>
+
+	<shortcodes>
+	        <shortcode>
+	            <tag>spark_btn</tag>
+	            <attributes>
+	                <attribute>text</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_simple_btn</tag>
+	            <attributes>
+	                <attribute>text</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_cta</tag>
+	            <attributes>
+	                <attribute>text</attribute>
+	                <attribute>button_text</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_faq</tag>
+	            <attributes>
+	                <attribute>question</attribute>
+	                <attribute>answer</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_img</tag>
+	            <attributes>
+	                <attribute>alt</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_paragraph</tag>
+	            <attributes>
+	                <attribute>paragraph</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_pricing</tag>
+	            <attributes>
+	                <attribute>title</attribute>
+	                <attribute>price</attribute>
+	                <attribute>tagline</attribute>
+	                <attribute>btn_text</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_domain_checker</tag>
+	            <attributes>
+	                <attribute>input_placeholder</attribute>
+	                <attribute>button_value</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_domain_checker_2</tag>
+	            <attributes>
+	                <attribute>input_placeholder</attribute>
+	                <attribute>button_value</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_section_title</tag>
+	            <attributes>
+	                <attribute>content</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_service_text_block</tag>
+	            <attributes>
+	                <attribute>title</attribute>
+	                <attribute>description</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_team_member</tag>
+	            <attributes>
+	                <attribute>name</attribute>
+	                <attribute>job_title</attribute>
+	                <attribute>about</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_team_member</tag>
+	            <attributes>
+	                <attribute>name</attribute>
+	                <attribute>job_title</attribute>
+	                <attribute>about</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_text_block_step</tag>
+	            <attributes>
+	                <attribute>title</attribute>
+	                <attribute>description</attribute>
+	                <attribute>number</attribute>
+	            </attributes>
+	        </shortcode>
+	        <shortcode>
+	            <tag>spark_text_block</tag>
+	            <attributes>
+	                <attribute>title</attribute>
+	                <attribute>description</attribute>
+	            </attributes>
+	        </shortcode>
+	</shortcodes>
+
+	<language-switcher-settings>
+	    <key name="additional_css">{inline CSS styles}</key>
+	    <key name="link_empty">{0 or 1}</key>
+	    <key name="copy_parameters">{parameter1, parameter2}</key>
+	    <key name="sidebars">
+	        <key name="{sidebar slug}">
+	            <key name="display_flags">{0 or 1}</key>
+	            <key name="display_names_in_current_lang">{0 or 1}</key>
+	            <key name="display_names_in_native_lang">{0 or 1}</key>
+	            <key name="display_link_for_current_lang">{0 or 1}</key>
+	            <key name="widget_title">{widget title}</key>
+	            <key name="template">{template slug}</key>
+	            <!-- color picker keys -->
+	            <key name="background_normal">#{hex color}</key>
+	            <key name="border_normal">#{hex color}</key>
+	            <key name="font_current_normal">#{hex color}</key>
+	            <key name="font_current_hover">#{hex color}</key>
+	            <key name="background_current_normal">#{hex color}</key>
+	            <key name="background_current_hover">#{hex color}</key>
+	            <key name="font_other_normal">#{hex color}</key>
+	            <key name="font_other_hover">#{hex color}</key>
+	            <key name="background_other_normal">#{hex color}</key>
+	            <key name="background_other_hover">#{hex color}</key>
+	        </key>
+	    </key>
+	    <key name="statics">
+	        <key name="footer">
+	            <key name="show">{0 or 1}</key>
+	            <key name="display_flags">{0 or 1}</key>
+	            <key name="display_names_in_current_lang">{0 or 1}</key>
+	            <key name="display_names_in_native_lang">{0 or 1}</key>
+	            <key name="display_link_for_current_lang">{0 or 1}</key>
+	            <key name="template">{template slug}</key>
+	            <!-- color picker keys -->
+	            <key name="background_normal">#{hex color}</key>
+	            <key name="border_normal">#{hex color}</key>
+	            <key name="font_current_normal">#{hex color}</key>
+	            <key name="font_current_hover">#{hex color}</key>
+	            <key name="background_current_normal">#{hex color}</key>
+	            <key name="background_current_hover">#{hex color}</key>
+	            <key name="font_other_normal">#{hex color}</key>
+	            <key name="font_other_hover">#{hex color}</key>
+	            <key name="background_other_normal">#{hex color}</key>
+	            <key name="background_other_hover">#{hex color}</key>
+	        </key>
+	        <key name="post_translations">
+	            <key name="show">{0 or 1}</key>
+	            <key name="display_flags">{0 or 1}</key>
+	            <key name="display_names_in_current_lang">{0 or 1}</key>
+	            <key name="display_names_in_native_lang">{0 or 1}</key>
+	            <key name="display_link_for_current_lang">{0 or 1}</key>
+	            <key name="display_before_content">{0 or 1}</key>
+	            <key name="display_after_content">{0 or 1}</key>
+	            <key name="template">{template slug}</key>
+	            <key name="availability_text">{string like "See post translations: %s"}</key>
+	        </key>
+	        <key name="shortcode_actions">
+	            <key name="display_flags">{0 or 1}</key>
+	            <key name="display_names_in_current_lang">{0 or 1}</key>
+	            <key name="display_names_in_native_lang">{0 or 1}</key>
+	            <key name="display_link_for_current_lang">{0 or 1}</key>
+	            <key name="template">{template slug}</key>
+	            <!-- color picker keys -->
+	            <key name="background_normal">#{hex color}</key>
+	            <key name="border_normal">#{hex color}</key>
+	            <key name="font_current_normal">#{hex color}</key>
+	            <key name="font_current_hover">#{hex color}</key>
+	            <key name="background_current_normal">#{hex color}</key>
+	            <key name="background_current_hover">#{hex color}</key>
+	            <key name="font_other_normal">#{hex color}</key>
+	            <key name="font_other_hover">#{hex color}</key>
+	            <key name="background_other_normal">#{hex color}</key>
+	            <key name="background_other_hover">#{hex color}</key>
+	        </key>
+	    </key>
+	</language-switcher-settings>
+</wpml-config>

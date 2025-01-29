@@ -1,0 +1,186 @@
+[02-Apr-2018 07:38:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[02-Apr-2018 07:55:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[02-Apr-2018 08:26:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[10-Apr-2018 02:18:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/404.php on line 2
+[10-Apr-2018 02:18:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/404.php on line 2
+[11-Apr-2018 14:45:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/archive.php on line 2
+[11-Apr-2018 14:45:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/archive.php on line 2
+[14-Apr-2018 17:06:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[14-Apr-2018 17:14:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[14-Apr-2018 17:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[14-Apr-2018 17:27:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[14-Apr-2018 17:30:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[14-Apr-2018 17:43:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[16-May-2018 16:52:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[18-May-2018 17:09:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[18-May-2018 17:16:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[05-Jun-2018 20:28:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[05-Jun-2018 20:38:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[05-Jun-2018 20:46:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[05-Jun-2018 20:58:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[12-Jul-2018 19:17:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[12-Jul-2018 19:42:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[12-Jul-2018 19:47:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[12-Jul-2018 19:56:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[28-Aug-2018 12:16:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[28-Aug-2018 12:22:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[31-Aug-2018 22:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[31-Aug-2018 22:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/archive.php on line 2
+[31-Aug-2018 22:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/header.php on line 2
+[31-Aug-2018 22:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/404.php on line 2
+[31-Aug-2018 22:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[31-Aug-2018 22:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/archive.php on line 2
+[31-Aug-2018 22:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/header.php on line 2
+[31-Aug-2018 22:29:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/404.php on line 2
+[23-Sep-2018 03:22:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[24-Sep-2018 20:03:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dhruyrlw/public_html/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[10-Dec-2018 20:42:36 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[08-Jan-2019 21:50:19 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/header.php on line 2
+[08-Jan-2019 21:50:19 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/404.php on line 2
+[08-Jan-2019 21:50:19 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[08-Jan-2019 21:50:19 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/archive.php on line 2
+[08-Jan-2019 21:50:20 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[08-Jan-2019 21:50:20 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/archive.php on line 2
+[08-Jan-2019 21:50:21 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/404.php on line 2
+[08-Jan-2019 21:50:21 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/header.php on line 2
+[23-Jan-2019 19:36:16 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[23-Jan-2019 19:36:17 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/teamdxim/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[22-Feb-2019 04:53:21 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[22-Feb-2019 05:05:32 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[22-Feb-2019 05:17:37 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[06-Mar-2019 21:25:24 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[06-Mar-2019 21:32:06 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[06-Mar-2019 21:38:19 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[02-Apr-2019 04:51:29 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[02-Apr-2019 05:01:34 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[02-Apr-2019 05:20:43 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[27-Apr-2019 16:18:52 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[27-Apr-2019 16:29:05 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[27-Apr-2019 16:48:29 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[29-Apr-2019 18:11:30 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[29-Apr-2019 18:25:37 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[29-Apr-2019 19:00:51 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[21-May-2019 06:55:14 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[22-Jun-2019 03:03:33 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[06-Oct-2019 01:03:26 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[05-Dec-2019 06:23:49 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[06-Dec-2019 09:53:26 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[24-Jan-2020 08:20:40 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[04-Feb-2020 15:26:01 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[14-Mar-2020 04:53:28 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[15-Mar-2020 15:20:56 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[15-Mar-2020 15:33:12 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[16-Mar-2020 15:50:52 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[17-Mar-2020 17:17:22 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[18-Mar-2020 17:41:59 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[19-Mar-2020 18:28:27 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[30-Mar-2020 09:56:54 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
+[30-Mar-2020 10:09:52 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/uxthqtxn/dhrubok.website/wp/spark/wp-content/themes/spark-theme/index.php on line 2
