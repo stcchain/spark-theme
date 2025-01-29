@@ -1,0 +1,79 @@
+.cmb2-id-spark-page-layout ul {}
+.cmb2-id-spark-page-layout ul li,
+.cmb2-id-spark-blog-page-grid ul li{
+	float: left;
+	margin-right: 15px;
+}
+.cmb2-id-spark-page-layout ul li input,
+.cmb2-id-spark-blog-page-grid ul li input {
+	display: none;
+}
+.cmb2-id-spark-page-layout ul li label img ,
+.cmb2-id-spark-blog-page-grid ul li label img {
+	border: 2px solid transparent;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	min-height: 50px;
+}
+.cmb2-id-spark-page-layout ul li input:checked + label img,
+.cmb2-id-spark-blog-page-grid ul li input:checked + label img{
+	border: 2px solid #0073AA;
+}
+.cmb2-id-spark-page-layout ul li input:checked + label span.radio-text,
+.cmb2-id-spark-blog-page-grid ul li input:checked + label span.radio-text{
+	color: #0073AA;
+}
+.cmb2-id-spark-page-layout ul li label span.radio-text,
+.cmb2-id-spark-blog-page-grid ul li label span.radio-text{
+	display: block;
+	font-size: 13px;
+}
+
+.upload_image_button {
+	margin-top: 5px !important;
+}
+
+
+.option-page-layout input[type=radio] {
+	display: none;
+}
+.option-page-layout td ul li {
+    float: left;
+    width: auto !important;
+		margin: 15px
+}
+.option-page-layout  td ul li span img.radio-img{
+	border-width: 2px;
+    border-style: solid;
+    border-color: #ddd;
+    border-radius: 3px;
+    padding: 3px;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+.option-page-layout  td ul li span img.radio-img:hover{
+    border-color: #0073AA;
+}
+.option-page-layout span.radio-text{
+	display: block;
+	font-size: 13px;
+}
+.option-page-layout input[type=radio]:checked + span img.radio-img{
+	border: 2px solid #0073AA;
+}
+
+
+.spark-custom-page-options-class ul.cmb2-radio-list li img{
+	width: 100%;
+	margin-top: 10px;
+}
+
+.spark-custom-page-options-class ul.cmb2-radio-list li{
+	margin-bottom: 20px;
+}
+
+.spark-custom-page-options-class ul.cmb2-radio-list li input:checked + label img{
+	border: 2px solid #288FEB;
+}
