@@ -1,0 +1,646 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spark_bengali\n"
+"POT-Creation-Date: 2016-12-06 23:18+0600\n"
+"PO-Revision-Date: 2016-12-06 23:18+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../author.php:6
+msgid "Author: "
+msgstr "লেখক"
+
+#: ../inc/domain-check.php:23
+msgid "Congratulations! "
+msgstr "অভিনন্দন !"
+
+#: ../inc/domain-check.php:23
+msgid " is available!"
+msgstr "পাওয়া যায়:"
+
+#: ../inc/domain-check.php:24
+msgid "Sorry! "
+msgstr ""
+
+#: ../inc/domain-check.php:24
+msgid " is already taken!"
+msgstr ""
+
+#: ../inc/domain-check.php:24
+msgid "Try search another."
+msgstr ""
+
+#: ../inc/domain-check.php:33
+msgid "WHOIS server not found for that TLD"
+msgstr ""
+
+#: ../inc/domain-check.php:40
+msgid "Please enter the domain name"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:394
+#: ../inc/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:112
+msgid "Page Options"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:120
+msgid "Page header style"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:122
+msgid "Select the page header options"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:157
+msgid "Testimonial options"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:162
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:164
+msgid "Give the testimonial"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:169
+msgid "URL"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:171
+msgid "Give the url"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:190
+msgid "User Profile Metabox"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:198
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:199
+#: ../inc/theme-options/cmb2-meta-box.php:206
+#: ../inc/theme-options/cmb2-meta-box.php:213
+#: ../inc/theme-options/cmb2-meta-box.php:220
+#: ../inc/theme-options/cmb2-meta-box.php:227
+#: ../inc/theme-options/cmb2-meta-box.php:234
+msgid "field description (optional)"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:205
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:212
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:219
+msgid "Youtube URL"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:226
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../inc/theme-options/cmb2-meta-box.php:233
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:46
+#: ../inc/theme-options/theme-options.php:47
+msgid "Spark Theme Options"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:192
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:194
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:198
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:214
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:215
+#: ../inc/theme-options/theme-options.php:220
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:219
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:226
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:250
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:252
+msgid "Spark theme general settings!"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:260
+msgid "general settings"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:268
+msgid "Logo"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:269
+msgid "Choose the site logo"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:277
+msgid "Preloader"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:278
+msgid "Show or hide preloader"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:285
+msgid "Header settings"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:293
+msgid "Phone no"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:294
+msgid "Enter the phone no."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:300
+msgid "Email no"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:301
+msgid "Enter the email no."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:308
+msgid "Footer settings"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:316
+msgid "Footer copyright text"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:317
+msgid "Enter footer copyright text"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:318
+msgid "&copy; Copyright 2016 Spark, All Rights Reserved"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:326
+msgid "Page Settings"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:328
+msgid "Spark theme page settings!"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:334
+msgid "Blog page"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:343
+#: ../inc/theme-options/theme-options.php:366
+#: ../inc/theme-options/theme-options.php:412
+#: ../inc/theme-options/theme-options.php:434
+msgid "Page layout"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:344
+msgid "Select the page layout"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:357
+msgid "Single page"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:367
+msgid "Select the single page layout"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:380
+msgid "Search page"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:389
+msgid "Search Page layout"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:390
+msgid "Select the search page layout"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:403
+msgid "Archive page"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:413
+msgid "Select the archive page layout"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:425
+msgid "Author page"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:435
+msgid "Select the author page layout"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:548
+msgid "Section via hook"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:549
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../inc/theme-setup.php:41
+msgid "Primany Menu"
+msgstr ""
+
+#: ../inc/theme-setup.php:42
+msgid "Footer Menu"
+msgstr ""
+
+#: ../inc/theme-setup.php:77
+msgid "prev"
+msgstr ""
+
+#: ../inc/theme-setup.php:78
+msgid "next"
+msgstr ""
+
+#: ../inc/theme-setup.php:174
+msgid "Pages:"
+msgstr ""
+
+#: ../inc/theme-setup.php:218
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/theme-setup.php:239
+msgid "Reply"
+msgstr ""
+
+#: ../inc/theme-setup.php:403
+msgid "home"
+msgstr ""
+
+#: ../inc/widgets/about_us_widget.php:18
+msgid ""
+"About us widget helps you to show something about you and your social "
+"profiles."
+msgstr ""
+
+#: ../inc/widgets/about_us_widget.php:26
+msgid "About Us"
+msgstr ""
+
+#: ../inc/widgets/about_us_widget.php:80
+msgid "Give your description"
+msgstr ""
+
+#: ../index.php:11
+msgid "Blog"
+msgstr ""
+
+#: ../searchform.php:7
+msgid "Search"
+msgstr ""
+
+#: ../templates/content-one_column.php:17
+msgid "Sticky -"
+msgstr ""
+
+#: ../templates/content-one_column.php:33
+#: ../templates/content-one_column.php:39 ../templates/content-single.php:16
+msgid ", "
+msgstr ""
+
+#: ../templates/content-one_column.php:41
+msgid "Tags: "
+msgstr ""
+
+#: ../templates/content-one_column.php:47
+msgid "No comments"
+msgstr ""
+
+#: ../templates/content-one_column.php:48
+msgid "1 Comments"
+msgstr ""
+
+#: ../templates/content-one_column.php:49
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../templates/content-one_column.php:56
+#, php-format
+msgid "- Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../templates/content-single.php:27
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../templates/no-post.php:4
+msgid "Sorry, no posts found."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:29
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-reset-password.php:29
+msgid "Enter a new password below."
+msgstr ""
